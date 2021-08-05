@@ -1,0 +1,7 @@
+.content{
+    min-height: 540px;
+}
+.main-sidebar ul li:last-child{
+    display: none;
+    visibility: hidden;
+}
